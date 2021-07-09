@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Azenix.Data.Concrete</AssemblyName>
+    <RootNamespace>Azenix.Data.Concrete</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\Common.Settings\Common.Settings.csproj" />
+    <ProjectReference Include="..\Data.Core\Data.Core.csproj" />
+  </ItemGroup>
+
+</Project>

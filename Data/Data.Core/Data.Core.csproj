@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Azenix.Data.Core</AssemblyName>
+    <RootNamespace>Azenix.Data.Core</RootNamespace>
+  </PropertyGroup>
+
+</Project>

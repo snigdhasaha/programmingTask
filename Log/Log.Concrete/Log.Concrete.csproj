@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Azenix.Log.Concrete</AssemblyName>
+    <RootNamespace>Azenix.Log.Concrete</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\Common.Settings\Common.Settings.csproj" />
+    <ProjectReference Include="..\..\Data\Data.Core\Data.Core.csproj" />
+    <ProjectReference Include="..\Log.Core\Log.Core.csproj" />
+  </ItemGroup>
+
+</Project>
